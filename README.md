@@ -27,5 +27,6 @@ Atualmente desenvolvo projetos práticos para consolidar meus conhecimentos e ev
   </a>
 </div>
 
-![Snake animation](https://github.com/davisantbjj/davisantbjj/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/davisantbjj/davisantbjj/blob/output/github-contribution-grid-snake-dark.svg)
+
 
