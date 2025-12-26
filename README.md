@@ -1,6 +1,6 @@
 ## Oiii, eu sou o Davi Santana Loz 👋 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davisantbjj)](https://github.com/anuraghazra/github-readme-stats)
 
 Sou estudante de **Ciência da Computação** e aspirante a desenvolvedor, com foco em **Back-end e Full Stack**.  
 Atualmente desenvolvo projetos práticos para consolidar meus conhecimentos e evoluir constantemente como programador 🚀
