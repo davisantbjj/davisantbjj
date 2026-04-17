@@ -2,7 +2,7 @@
 Sou estudante de **Ciência da Computação** e aspirante a desenvolvedor, com foco em **Back-end e Full Stack**.  
 Atualmente desenvolvo projetos práticos para consolidar meus conhecimentos e evoluir constantemente como programador 🚀
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Davi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Davi-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
